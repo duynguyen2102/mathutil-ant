@@ -33,7 +33,8 @@ public class MathUtilityAdvancedTest {
             {2, 2},  
             {3, 6},  
             {4, 24},  
-            {5, 120}  
+            {5, 120},
+            {6,720}
         };
     }
     // map từng cặp data ở trên vào 2 biến, đẩy 2 biến này vào
